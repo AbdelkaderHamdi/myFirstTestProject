@@ -1,4 +1,4 @@
 # myFirstTestProject
-this is the first test project that i have create 
-Hello world i'm here 
-<h1>the first test project</h1>
+This is the prototype project I have ever created.
+Hi everyone, this is me.
+<h1>The initial trial project</h1>
